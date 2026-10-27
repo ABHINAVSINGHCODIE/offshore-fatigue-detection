@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+catboost_info/
+.pytest_cache/
+
+# Large Datasets & Archives (>50MB / 14GB raw files)
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.zip
+data/processed/*.tar*
+data/processed/*.gz
+
+# Keep sample videos for testing
+!data/samples/
+
+# Local logs & evaluations
+logs/
+*.log
+.tempmediaStorage/
+scratch/

@@ -1,0 +1,23 @@
+{
+  "test_accuracy": 0.999,
+  "test_f1_macro": 0.9988,
+  "test_f1_fatigued": 0.9993,
+  "test_precision_fat": 0.9997,
+  "test_recall_fat": 0.9989,
+  "test_roc_auc": 1.0,
+  "cv_roc_auc": 1.0,
+  "confusion_matrix": [
+    [
+      3143,
+      2
+    ],
+    [
+      8,
+      6978
+    ]
+  ],
+  "n_test_samples": 10131,
+  "n_train_samples": 10131,
+  "target_accuracy": 0.9,
+  "accuracy_met": true
+}

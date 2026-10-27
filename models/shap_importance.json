@@ -1,0 +1,17 @@
+{
+  "yawn_peak_mar": 1233.721,
+  "EAR_ratio_15s_min": 494.899,
+  "EAR_ratio_30s_min": 465.526,
+  "blink_closure_speed": 458.567,
+  "BlinkRate": 416.094,
+  "blink_opening_speed": 375.063,
+  "EAR": 366.047,
+  "EAR_ratio_5s_min": 316.779,
+  "MAR_5s_min": 305.759,
+  "MAR_ratio_15s_mean": 294.687,
+  "MAR_ratio_5s_max": 294.157,
+  "MAR_ratio_30s_mean": 287.464,
+  "EAR_ratio_60s_min": 284.704,
+  "MAR_ratio_5s_mean": 275.726,
+  "MAR_ratio_60s_mean": 265.848
+}

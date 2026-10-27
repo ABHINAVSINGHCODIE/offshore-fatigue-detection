@@ -1,0 +1,11 @@
+# Ignore all trained model artifacts (can be large binary files)
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Keep metadata JSON files
+!*.json
+!.gitignore

@@ -1,0 +1,15 @@
+opencv-python
+numpy
+mediapipe
+lightgbm
+xgboost
+catboost
+scikit-learn
+joblib
+pandas
+pyarrow
+scipy
+streamlit
+shap
+optuna
+tqdm
